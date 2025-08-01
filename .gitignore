@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+__pycache__/
+.pytest_cache/
+
+.vscode/
+.idea/
+
+lichess_data.pgn
+
+data/
+prepared_data/
+prepared_data_d12/
+prepared_data_d12_multipv/
+processes_files/
+pre
+
+
+# Any other specific large files
+*.h5
+*.pb
