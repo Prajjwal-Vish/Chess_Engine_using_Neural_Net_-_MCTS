@@ -13,7 +13,15 @@ prepared_data/
 prepared_data_d12/
 prepared_data_d12_multipv/
 processes_files/
-pre
+prepared_data_2layer_patched
+prepared_data_24_layers
+prepared_data_final_move_hist
+prepared_puzzle_data
+prepared_puzzle_data_2layer_patched
+
+ui
+
+temp.pytest_cache
 
 
 # Any other specific large files
